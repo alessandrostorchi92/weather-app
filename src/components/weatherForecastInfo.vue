@@ -1,18 +1,16 @@
 <script>
 
-    export default {
+  export default {
 
-    }
+  }
 
 </script>
 
-
 <template>
 
-    <div class="location-map-container"></div>
+    <div class="weather-forecast-info-container"></div>
 
 </template>
-
 
 <style lang="scss">
 
